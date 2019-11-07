@@ -35,5 +35,13 @@ namespace Targil1_2.Entities
             }
             return true;
         }
+        public Host()
+        {
+            // default
+        }
+        public Host(List<int[]> list)
+        {
+            AddYamim(list);
+        }
     }
 }

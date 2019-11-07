@@ -25,7 +25,7 @@ namespace Targil1_2Amiti
                         //FINISH?
                         break;
                     case 3:
-                        //ENFOIRE
+                        //LO
                         break;
                     default:
                         Console.WriteLine("error");
