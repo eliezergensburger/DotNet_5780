@@ -37,6 +37,7 @@ namespace Targil1_1
                 Console.Write("{0,3} ", item);
             }
             Console.WriteLine();
+
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
