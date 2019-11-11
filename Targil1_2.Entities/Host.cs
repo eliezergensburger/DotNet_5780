@@ -8,6 +8,7 @@ namespace Targil1_2.Entities
 {
     public class Host
     {
+        public String Name { get; set; }
         Tfussa tfussa= new Tfussa();
 
         public void AddYomBadid(int[]luach)
